@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "BalooThambi2Bold";
+  src: url("/public/assets/fonts/BalooThambi2-Bold.ttf");
+}
+
+@font-face {
+  font-family: "ArialRoundedMTBold";
+  src: url("/public/assets/fonts/ArialRoundedMT-Bold.ttf");
+}
